@@ -6,7 +6,7 @@
 % This code script is licensed with a CC-BY international license 4.0.
 
 % This work is a follow-up of the paper: (DOI: 10.1109/TCSII.2023.3343292)
-% J. Chen, S. Yang, H. Wu, G. Indiveri, and M. Payvand, ¡°Scaling limits of memristor-based routers for asynchronous neuromorphic systems,¡±IEEE Transactions on Circuits and Systems II: Express Briefs, 2023. 
+% J. Chen, S. Yang, H. Wu, G. Indiveri, and M. Payvand, "Scaling limits of memristor-based routers for asynchronous neuromorphic systems,"IEEE Transactions on Circuits and Systems II: Express Briefs, 2023. 
 % -------------------------------------------------------------------------------------------------------- %
 close all;  
 clear all;   
